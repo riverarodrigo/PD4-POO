@@ -2,7 +2,7 @@
 
 Aplicación Java que lee de una base de datos MySQL las entidades **Stand**, **Editorial** y **Reservación**, usando el patrón **MVC** y una **capa de base de datos** con **JDBC**.
 
-> 🎥 **Video explicativo (máx. 5 min):** _PEGAR_AQUI_EL_URL_DEL_VIDEO_ (verificar que el enlace sea público o con acceso)
+> 🎥 **Video explicativo:** https://alumnosuady-my.sharepoint.com/:v:/g/personal/a22204072_alumnos_uady_mx/IQCZ9SfpbSGmTK0eKKAhKlrZATf8hJqqy9ST3kykksEFxhQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=d5q7ru
 
 ## Qué se implementó
 
@@ -45,7 +45,7 @@ mvn compile exec:java
 Variables opcionales para apuntar a otra BD (por ejemplo en la nube): `DB_URL`, `DB_USER`, `DB_PASSWORD`.
 Valores por defecto: `jdbc:mysql://localhost:3306/ferialibro`, usuario `root`, contraseña `root1234`.
 
-### Salida esperada (resumen)
+### Salida esperada 
 
 ```
 [EXITO] Conexión a la BD exitosa: jdbc:mysql://localhost:3306/ferialibro...
