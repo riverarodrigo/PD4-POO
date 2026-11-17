@@ -2,7 +2,7 @@
 
 Aplicación Java que lee de una base de datos MySQL las entidades **Stand**, **Editorial** y **Reservación**, usando el patrón **MVC** y una **capa de base de datos** con **JDBC**.
 
-> 🎥 **Video explicativo:** https://alumnosuady-my.sharepoint.com/:v:/g/personal/a22204072_alumnos_uady_mx/IQCZ9SfpbSGmTK0eKKAhKlrZATf8hJqqy9ST3kykksEFxhQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=d5q7ru
+> **Video:** https://alumnosuady-my.sharepoint.com/:v:/g/personal/a22204072_alumnos_uady_mx/IQCZ9SfpbSGmTK0eKKAhKlrZATf8hJqqy9ST3kykksEFxhQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=d5q7ru
 
 ## Qué se implementó
 
