@@ -181,18 +181,3 @@ Main → Controlador (lógica de negocio) → DAO (JDBC, paquete db) → MySQL
               Modelo (entidades)  →  Vista (ConsolaView) imprime
 ```
 
-## Guion sugerido para el video (≈ 4–5 min)
-
-1. **(0:00)** Qué es el proyecto y qué tablas lee (Stands, Editoriales, Reservaciones).
-2. **(0:30)** Mostrar `docker compose up -d` y el `schema.sql` (el diagrama ER).
-3. **(1:15)** Capa **BD**: `ConexionBD` y un DAO (`ReservacionDAO` con el JOIN, `try-with-resources`).
-4. **(2:15)** **Modelo**: las 4 entidades. **Controladores**: dónde vive la lógica de negocio.
-5. **(3:15)** **Vista** y `Main`: cómo se conectan las capas.
-6. **(3:45)** Demo: `mvn compile exec:java` y la salida con las 3 listas.
-7. **(4:30)** Cierre: qué sigue (escalar a escritura, ORM, vista web).
-
-## Siguientes pasos (puntos extra)
-
-- Cambiar la vista de consola por una web (Spring Boot + Thymeleaf).
-- Migrar a ORM (JPA/Hibernate) para no manejar conexiones a mano.
-- Desplegar la BD en la nube.
